@@ -1,0 +1,4 @@
+ipkernel
+numpy
+mathplotlib
+pandas
